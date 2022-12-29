@@ -2,8 +2,6 @@
 
 [![CircleCI branch](https://img.shields.io/circleci/project/github/javisperez/tailwindcolorshades/master.svg)](https://circleci.com/gh/javisperez/tailwindcolorshades/tree/master)
 
-## To use this app
-Go to [https://javisperez.github.io/tailwindcolorshades](https://javisperez.github.io/tailwindcolorshades)
 
 ## What is this?
 Is a tool to make shades and tints for a given color and generate the proper code for the **TailwindCSS** config file.
